@@ -4,7 +4,7 @@ from transform import transform
 def load():
     df_state, df_cities = transform()
 
-    av_url = "postgresql+psycopg2://dbuser:password@domain:port/database?sslmode=require"
+    av_url = "postgresql+psycopg2://dbuser:password@host:port/database?sslmode=require"
 
     engine = create_engine(av_url)
 
