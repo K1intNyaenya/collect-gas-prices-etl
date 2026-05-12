@@ -1,0 +1,144 @@
+{
+    "success": true,
+    "result": {
+        "state": [
+            {
+                "currency": "usd",
+                "name": "Washington",
+                "lowername": "washington",
+                "gasoline": "5.766",
+                "midGrade": "6.033",
+                "premium": "6.269",
+                "diesel": "6.812"
+            }
+        ],
+        "cities": [
+            {
+                "currency": "usd",
+                "gasoline": "5.697",
+                "midGrade": "5.970",
+                "premium": "6.206",
+                "diesel": "6.521",
+                "name": "Bellingham",
+                "lowername": "bellingham"
+            },
+            {
+                "currency": "usd",
+                "gasoline": "5.867",
+                "midGrade": "6.134",
+                "premium": "6.364",
+                "diesel": "6.856",
+                "name": "Bremerton",
+                "lowername": "bremerton"
+            },
+            {
+                "currency": "usd",
+                "gasoline": "5.800",
+                "midGrade": "6.021",
+                "premium": "6.260",
+                "diesel": "6.971",
+                "name": "Olympia",
+                "lowername": "olympia"
+            },
+            {
+                "currency": "usd",
+                "gasoline": "5.440",
+                "midGrade": "5.709",
+                "premium": "5.959",
+                "diesel": "6.672",
+                "name": "Richland-Kennewick-Pasco",
+                "lowername": "richland-kennewick-pasco"
+            },
+            {
+                "currency": "usd",
+                "gasoline": "5.961",
+                "midGrade": "6.195",
+                "premium": "6.425",
+                "diesel": "6.999",
+                "name": "Seattle-Bellevue-Everett",
+                "lowername": "seattle-bellevue-everett"
+            },
+            {
+                "currency": "usd",
+                "gasoline": "5.375",
+                "midGrade": "5.662",
+                "premium": "5.903",
+                "diesel": "6.532",
+                "name": "Spokane",
+                "lowername": "spokane"
+            },
+            {
+                "currency": "usd",
+                "gasoline": "5.865",
+                "midGrade": "6.105",
+                "premium": "6.338",
+                "diesel": "6.932",
+                "name": "Tacoma",
+                "lowername": "tacoma"
+            },
+            {
+                "currency": "usd",
+                "gasoline": "5.521",
+                "midGrade": "5.788",
+                "premium": "6.026",
+                "diesel": "6.582",
+                "name": "Yakima",
+                "lowername": "yakima"
+            },
+            {
+                "currency": "usd",
+                "gasoline": "5.755",
+                "midGrade": "5.993",
+                "premium": "6.227",
+                "diesel": "6.704",
+                "name": "Vancouver",
+                "lowername": "vancouver"
+            },
+            {
+                "currency": "usd",
+                "gasoline": "5.199",
+                "midGrade": "0.000",
+                "premium": "5.424",
+                "diesel": "6.149",
+                "name": "Clarkson",
+                "lowername": "clarkson"
+            },
+            {
+                "currency": "usd",
+                "gasoline": "5.792",
+                "midGrade": "5.993",
+                "premium": "6.258",
+                "diesel": "6.658",
+                "name": "Longview",
+                "lowername": "longview"
+            },
+            {
+                "currency": "usd",
+                "gasoline": "5.666",
+                "midGrade": "5.991",
+                "premium": "5.991",
+                "diesel": "6.685",
+                "name": "Mount Vernon-Anacortes",
+                "lowername": "mount vernon-anacortes"
+            },
+            {
+                "currency": "usd",
+                "gasoline": "5.555",
+                "midGrade": "5.789",
+                "premium": "6.379",
+                "diesel": "6.811",
+                "name": "Walla Walla",
+                "lowername": "walla walla"
+            },
+            {
+                "currency": "usd",
+                "gasoline": "5.648",
+                "midGrade": "5.869",
+                "premium": "6.035",
+                "diesel": "6.830",
+                "name": "Wenatchee",
+                "lowername": "wenatchee"
+            }
+        ]
+    }
+}
