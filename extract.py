@@ -7,7 +7,7 @@ def extract():
 
     headers = {
         'content-type': "application/json",
-        'authorization': "apikey 3De19gvsnyPt5ZSkm1RFSR:7iPAECJDV3dhSjptqtkeaR"
+        'authorization': "apikey API_KEY"
     }
 
     conn.request("GET", "/gasPrice/stateUsaPrice?state=WA", headers=headers)
